@@ -29,7 +29,8 @@ class WindowSettings(QMainWindow):
             self.musictf = False
 
 # SCREEN settings
-WIDTH, HEIGHT = 500, 700
+width, height, fps, rows, cols, offset, map_width, map_height = 610, 670, 60, 30, 28, 50, 560, 620
+
 
 if __name__ == '__main__':
         app = QApplication(sys.argv)
