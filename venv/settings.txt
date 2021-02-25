@@ -1,1 +1,1 @@
-easy True
+1.25 False
